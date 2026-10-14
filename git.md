@@ -66,6 +66,6 @@ rendez vous sur ce site [GIT](https://git-scm.com/install/windows) puis cliquez 
 ---
 
 Une fois telechargé ouvrez votre fichier et installer le.
-A la fin de l'installation il devrait s'ouvrir automatiquement sur visual studio code si ce n'est pas le cas ouvrez visual studio puis 
+A la fin de l'installation il devrait s'ouvrir automatiquement sur visual studio code si ce n'est pas le cas ouvrez visual studio puis rendez vous
 
 
